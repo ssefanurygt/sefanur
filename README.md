@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on artificial intelligence<br>I'm currently learning HTML, CSS, Python.
+I'm currently working on artificial intelligence<br>I'm currently learning Python and java.
 
 
 ## 🌐 Socials:
